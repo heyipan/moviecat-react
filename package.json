@@ -1,0 +1,21 @@
+{
+  "name": "moviecat-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "umi": "^2.2.7",
+    "umi-plugin-react": "^1.2.3"
+  },
+  "dependencies": {
+    "@antv/g2": "^3.4.5",
+    "react": "^16.6.3"
+  }
+}
